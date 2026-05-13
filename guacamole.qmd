@@ -12,9 +12,5 @@
 ## Instructions
 1. Mash the avocado
 2. Finely chop the coriander and red onion
-<<<<<<< HEAD
-3. Add salt, pepper, and lemon juice to taste  
-=======
-3. Add salt, lemon and lime juice to taste  
->>>>>>> f32fb3e5cbc859b88d67ac7afd5e7d6e0c7068a0
+3. Add salt, pepper, lemon and lime juice to taste
 4. Enjoy!  
